@@ -1,5 +1,21 @@
-## Hey,👋I'm Srinath
 
-AI & Machine Learning Engineer
+<h2 align="center">👋 Hey, I'm Srinath</h2>
 
-<br /> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinath-dev/)
+<h3 align="center">
+  AI & Machine Learning Engineer • Contact With Me
+</h3>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/srinath-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:srinath052006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+
+
+
