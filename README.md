@@ -13,6 +13,27 @@
 </p>
 
 
+---
+<h2 align="center">💻 Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</p>
+
+
+
+
+
 
 
 
