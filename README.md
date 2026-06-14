@@ -1,1 +1,3 @@
-👋 Hey, I'm Srinath
+##👋 Hey, I'm Srinath
+
+AI & Machine Learning Engineer
